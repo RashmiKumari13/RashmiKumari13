@@ -1,6 +1,6 @@
 # Hi there, I'm Rashmi! 👋 
 
-### 🚀 Aspiring Software Engineer | Cyber Security Enthusiast | ML Developer
+### 🚀 Aspiring AI Engineer | Cyber Security Enthusiast | ML Developer
 
 I am a passionate developer focused on building high-performance systems and intelligent applications. I enjoy diving deep into low-level networking with C++ and exploring data patterns with Machine Learning.
 
@@ -44,5 +44,5 @@ I am a passionate developer focused on building high-performance systems and int
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-rashmikumari-gj261/)
+
