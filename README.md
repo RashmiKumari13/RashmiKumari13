@@ -44,13 +44,6 @@ I am a 4th-year B.Tech student at Government Engineering College, West Champaran
 
 ---
 
-### 📈 GitHub Statistics
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RashmiKumari13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiKumari13&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-rashmikumari-gj261/)
