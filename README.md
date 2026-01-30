@@ -8,7 +8,7 @@ I am a 4th-year B.Tech student at Government Engineering College, West Champaran
 
 ### 🛠️ Tech Stack & Skills
 
-**Programming & Frameworks**
+* **Programming & Frameworks**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,12 +17,12 @@ I am a 4th-year B.Tech student at Government Engineering College, West Champaran
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Data Science & Machine Learning**
+* **Data Science & Machine Learning**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Tools & Platforms**
+* **Tools & Platforms**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -31,15 +31,15 @@ I am a 4th-year B.Tech student at Government Engineering College, West Champaran
 ---
 
 ### 💼 Experience & Impact
-* [cite_start]**Web Development Intern @ BSPGCL:** Architected a full-stack MERN application to digitize manual workflows for the Bihar State Power Generation Company[cite: 10, 32].
-* [cite_start]**Machine Learning Intern @ InternCertify:** Implemented supervised learning algorithms and performed extensive EDA and feature engineering[cite: 19, 38].
-* [cite_start]**Cybersecurity Simulation @ Tata (Forage):** Focused on Identity and Access Management (IAM) and security best practices[cite: 14, 15].
+* **Web Development Intern @ BSPGCL:** Architected a full-stack MERN application to digitize manual workflows for the Bihar State Power Generation Company[cite: 10, 32].
+* **Machine Learning Intern @ InternCertify:** Implemented supervised learning algorithms and performed extensive EDA and feature engineering[cite: 19, 38].
+* **Cybersecurity Simulation @ Tata (Forage):** Focused on Identity and Access Management (IAM) and security best practices[cite: 14, 15].
 
 ---
 
 ### 🔥 Top Projects
-- [cite_start]**[Fake News Detection using ML](https://github.com/RashmiKumari13/FakeNewsDetector):** Achieved 85% accuracy using NLP techniques like TF-IDF vectorization and Passive-Aggressive Classifiers.
-- [cite_start]**[Internship Management Platform](https://github.com/RashmiKumari13/BSPGCL-MERN):** A secure, MVC-structured MERN application with decoupled directories for professional deployment[cite: 32].
+- **[Fake News Detection using ML](https://github.com/RashmiKumari13/FakeNewsDetector):** Achieved 85% accuracy using NLP techniques like TF-IDF vectorization and Passive-Aggressive Classifiers.
+- **[Internship Management Platform](https://github.com/RashmiKumari13/BSPGCL-MERN):** A secure, MVC-structured MERN application with decoupled directories for professional deployment[cite: 32].
 - **[Simple Port Scanner](https://github.com/RashmiKumari13/cyber_project):** A high-performance, asynchronous TCP scanner built with C++20 and Boost.Asio.
 
 ---
