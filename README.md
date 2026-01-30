@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Software Engineer | ML Developer | Full-Stack Enthusiast
 
-[cite_start]I am a 4th-year B.Tech student at Government Engineering College, West Champaran[cite: 23]. [cite_start]I specialize in building scalable software solutions, with a strong foundation in **Python programming** and **AI/ML fundamentals**[cite: 4]. I am passionate about digitizing workflows and securing network environments.
+I am a 4th-year B.Tech student at Government Engineering College, West Champaran.I specialize in building scalable software solutions, with a strong foundation in **Python programming** and **AI/ML fundamentals**. I am passionate about digitizing workflows and securing network environments.
 
 ---
 
