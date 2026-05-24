@@ -82,45 +82,37 @@ class RashmiKumari:
 <tr>
 <td width="50%">
 
-### 🧠 [Fake News Detector](https://github.com/RashmiKumari13/FakeNewsDetector)
-NLP pipeline detecting misinformation using **TF-IDF vectorization** and **Passive-Aggressive Classifier**.
-
-![Accuracy](https://img.shields.io/badge/Accuracy-85%25-8B5CF6?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-8B5CF6?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🔍 [Async TCP Port Scanner](https://github.com/RashmiKumari13/cyber_project)
-High-performance network scanner built with **C++20** and **Boost.Asio** for low-latency async I/O.
-
-![C++20](https://img.shields.io/badge/-C++20-00599C?style=flat-square&logo=c%2B%2B)
-![Boost.Asio](https://img.shields.io/badge/-Boost.Asio-06B6D4?style=flat-square)
-![Security](https://img.shields.io/badge/-Network_Recon-0F172A?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🏗️ [Internship Management Platform](https://github.com/RashmiKumari13/BSPGCL-MERN)
-Secure **MERN** full-stack app with MVC architecture, digitizing manual HR workflows at BSPGCL.
+Secure **MERN** full-stack app with MVC architecture and decoupled directories, digitizing manual HR workflows at BSPGCL for professional deployment.
 
 ![MERN](https://img.shields.io/badge/-MERN_Stack-4ea94b?style=flat-square)
 ![MVC](https://img.shields.io/badge/-MVC_Architecture-F59E0B?style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🚀 Next Up — Building
-Exploring **LangChain RAG pipelines**, **Next.js** portfolios, and **penetration testing** labs.
+### 🛡️ [Vulnerability Scanner](https://github.com/RashmiKumari13/Vulnerability-Scanner)
+Automated security tool that scans targets for common vulnerabilities, open ports, and misconfigurations — built for proactive network defense.
 
-![LangChain](https://img.shields.io/badge/-LangChain-10B981?style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![PenTest](https://img.shields.io/badge/-Pen_Testing-DC2626?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/-Vulnerability_Analysis-06B6D4?style=flat-square)
+![Networking](https://img.shields.io/badge/-Network_Scanning-0F172A?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 📉 [Employee Attrition Prediction System](https://github.com/RashmiKumari13/Employee-Attrition-Prediction-System)
+End-to-end ML system predicting employee churn using HR analytics data. Covers full pipeline — EDA, feature engineering, model training, and evaluation — helping organizations proactively retain talent.
+
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![ML Pipeline](https://img.shields.io/badge/-ML_Pipeline-8B5CF6?style=flat-square)
+![EDA](https://img.shields.io/badge/-EDA_%26_Feature_Eng-10B981?style=flat-square)
 
 </td>
 </tr>
