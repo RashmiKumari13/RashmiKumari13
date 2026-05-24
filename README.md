@@ -145,7 +145,7 @@ Cryptography-focused tool that evaluates password entropy, detects weak patterns
 
 <div align="center">
 
-![Rashmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmiKumari13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4)&nbsp;&nbsp;
+![Rashmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmiKumari13)&nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiKumari13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6)
 
 ![Streak](https://streak-stats.demolab.com?user=RashmiKumari13&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=10B981)
