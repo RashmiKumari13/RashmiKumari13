@@ -103,7 +103,7 @@ Automated security tool that scans targets for common vulnerabilities, open port
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%">
 
 ### 📉 [Employee Attrition Prediction System](https://github.com/RashmiKumari13/Employee-Attrition-Prediction-System)
 End-to-end ML system predicting employee churn using HR analytics data. Covers full pipeline — EDA, feature engineering, model training, and evaluation — helping organizations proactively retain talent.
@@ -113,6 +113,17 @@ End-to-end ML system predicting employee churn using HR analytics data. Covers f
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![ML Pipeline](https://img.shields.io/badge/-ML_Pipeline-8B5CF6?style=flat-square)
 ![EDA](https://img.shields.io/badge/-EDA_%26_Feature_Eng-10B981?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🔐 [Password Strength Analyzer](https://github.com/RashmiKumari13/Password-Strength-Analyzer)
+Cryptography-focused tool that evaluates password entropy, detects weak patterns, and enforces security policies — built to harden authentication at the first line of defense.
+
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Cryptography](https://img.shields.io/badge/-Cryptography-06B6D4?style=flat-square)
+![Security](https://img.shields.io/badge/-Password_Policy-8B5CF6?style=flat-square)
+![Entropy](https://img.shields.io/badge/-Entropy_Analysis-0F172A?style=flat-square)
 
 </td>
 </tr>
